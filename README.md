@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhash Peddireddy</h1>
 <h3 align="center">Enthusiastic Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript,Next.js**
+- 🌱 I’m currently learning **Redux,Next.js**
 
 - 📫 How to reach me **subhashchandra26545@gmail.com**
 
